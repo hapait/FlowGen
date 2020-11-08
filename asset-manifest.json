@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FlowGen/static/css/main.c84827c7.chunk.css",
+    "main.js": "/FlowGen/static/js/main.93cab49f.chunk.js",
+    "main.js.map": "/FlowGen/static/js/main.93cab49f.chunk.js.map",
+    "runtime-main.js": "/FlowGen/static/js/runtime-main.03403116.js",
+    "runtime-main.js.map": "/FlowGen/static/js/runtime-main.03403116.js.map",
+    "static/js/2.ccf387aa.chunk.js": "/FlowGen/static/js/2.ccf387aa.chunk.js",
+    "static/js/2.ccf387aa.chunk.js.map": "/FlowGen/static/js/2.ccf387aa.chunk.js.map",
+    "static/js/3.e3ed2f49.chunk.js": "/FlowGen/static/js/3.e3ed2f49.chunk.js",
+    "static/js/3.e3ed2f49.chunk.js.map": "/FlowGen/static/js/3.e3ed2f49.chunk.js.map",
+    "index.html": "/FlowGen/index.html",
+    "static/css/main.c84827c7.chunk.css.map": "/FlowGen/static/css/main.c84827c7.chunk.css.map",
+    "static/js/2.ccf387aa.chunk.js.LICENSE.txt": "/FlowGen/static/js/2.ccf387aa.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/FlowGen/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03403116.js",
+    "static/js/2.ccf387aa.chunk.js",
+    "static/css/main.c84827c7.chunk.css",
+    "static/js/main.93cab49f.chunk.js"
+  ]
+}
